@@ -1,2 +1,2 @@
-# Blog-app--SpringBoot
+# Blogapp-SpringBoot
 A simple blog app with springboot
